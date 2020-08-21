@@ -3,7 +3,7 @@
 Below is the list of all the the endpoints in use for Ariya Experience Monitor, each with list of reports the endpoint is populating,
 
 1. viewsOverallNumber
-*- Experience monitor home: Views Overall Number
+    - Experience monitor home: Views Overall Number
 2. viewsTrendGraph
 *- Experience monitor home: Views Trend Graph
 3. viewsTrendGraph
