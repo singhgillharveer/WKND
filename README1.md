@@ -16,9 +16,9 @@ Below is the list of all the the endpoints in use for Ariya Experience Monitor, 
 <tbody>
   <tr>
     <td>1.</td>
-    <td>~~viewsOverallNumber~~</td>
-    <td>~~Experience Monitor Home~~</td>
-    <td>~~Views Overall Number~~</td>
+    <td><s>viewsOverallNumber</s></td>
+    <td><s>Experience Monitor Home</s></td>
+    <td><s>Views Overall Number</s></td>
   </tr>
   <tr>
     <td rowspan=2>2.</td>
@@ -66,13 +66,13 @@ Below is the list of all the the endpoints in use for Ariya Experience Monitor, 
   </tr>
   <tr>
     <td rowspan=2>6.</td>
-    <td rowspan=2>~~handRaisersRegionSplit~~</td>
-    <td>~~Experience Monitor Home~~</td>
-    <td>~~Handraisers Region Split~~</td>
+    <td rowspan=2><s>handRaisersRegionSplit</s></td>
+    <td><s>Experience Monitor Home</s></td>
+    <td><s>Handraisers Region Split</s></td>
   </tr>
   <tr>
-    <td>~~Handraisers Insights~~</td>
-    <td>~~NAE Handraisers Overall Number~~</td>
+    <td><s>Handraisers Insights</s></td>
+    <td><s>NAE Handraisers Overall Number</s></td>
   </tr>
   <tr>
     <td rowspan=2>7.</td>
@@ -86,9 +86,9 @@ Below is the list of all the the endpoints in use for Ariya Experience Monitor, 
   </tr>
   <tr>
     <td>8.</td>
-    <td>~~NAEHandRaisersCountrySplit~~</td>
-    <td>~~Handraisers Insights~~</td>
-    <td>~~NAE Top Three Countries~~</td>
+    <td><s>NAEHandRaisersCountrySplit</s></td>
+    <td><s>Handraisers Insights</s></td>
+    <td><s>NAE Top Three Countries</s></td>
   </tr>
   <tr>
     <td>9.</td>
