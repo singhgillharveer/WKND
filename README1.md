@@ -21,14 +21,18 @@ Below is the list of all the the endpoints in use for Ariya Experience Monitor, 
     <td><s>Views Overall Number</s></td>
   </tr>
   <tr>
-    <td rowspan=2>2.</td>
-    <td rowspan=2>viewsTrendGraph<br></td>
+    <td rowspan=3>2.</td>
+    <td rowspan=3>viewsTrendGraph<br></td>
     <td>Experience Monitor Home</td>
     <td>Views Trend Graph</td>
   </tr>
   <tr>
     <td>Experience Monitor Home</td>
     <td>Views in last day</td>
+  </tr>
+  <tr>
+    <td>Experience Insights</td>
+    <td>Visits Trend - Last 4 Weeks</td>
   </tr>
   <tr>
     <td rowspan=2>3<br></td>
@@ -160,9 +164,9 @@ Below is the list of all the the endpoints in use for Ariya Experience Monitor, 
   </tr>
   <tr>
     <td>19.</td>
-    <td>visitsTrendLast2Weeks</td>
-    <td>Experience Insights</td>
-    <td>Visits Trend - Last 4 Weeks</td>
+    <td><s>visitsTrendLast2Weeks</s></td>
+    <td><s>Experience Insights</s></td>
+    <td><s>Visits Trend - Last 4 Weeks</s></td>
   </tr>
   <tr>
     <td>20.</td>
