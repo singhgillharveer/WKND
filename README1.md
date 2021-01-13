@@ -200,5 +200,33 @@ Below is the list of all the the endpoints in use for Ariya Experience Monitor, 
   - *viewsTrendGraph*: 
     - Changed to standard reporting instead of real-time
     - Data granularity changed to daily instead of hourly 
-    - Will pull data for last 4 weeks (till yesterday)
-    - Populates daily view trend and views in last day reports
+    - Updated to pull data for last 4 weeks (till yesterday)
+    
+  - *viewsRegionSplitOverallNumber*: 
+    - Turned off currentData flag
+    - Updated to pull data till yesterday
+    - Applied Ariya Regions as breakdown
+    
+  - *handRaisersTrendGraph*: 
+    - Changed to standard reporting instead of real-time
+    - Data granularity changed to daily instead of hourly 
+    - Updated to pull data for last 4 weeks (till yesterday)
+    
+  - *handRaisersRegionSplitOverallNumber*: 
+    - Turned off currentData flag
+    - Updated to pull data till yesterday
+    - Applied Ariya Regions as breakdown
+    
+  - *NAEHandRaisersTrendGraph*: 
+    - Changed to standard reporting instead of real-time
+    - Data granularity changed to daily instead of hourly 
+    - Updated to pull data for last 4 weeks (till yesterday)
+    
+  - *NAETopThreeGrades*: 
+    - Updated to pull data till yesterday
+    
+  - *NAETopThreeColors*: 
+    - Updated to pull data till yesterday
+    
+  - *HandraisersConversion*: 
+    - Updated to pull data till yesterday
