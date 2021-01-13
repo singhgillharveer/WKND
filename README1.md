@@ -195,3 +195,9 @@ Below is the list of all the the endpoints in use for Ariya Experience Monitor, 
   - *NAEHandRaisersCountrySplit* -> *HandraisersConversion*
   - *visitsTrendLast2Weeks* -> *viewsTrendGraph*
   - *NAETopDealers* -> *HandraisersConversion*
+  
+- **Updated Endpoints:** Below endpoints are updated to move data granularity to daily (few are updated by merging deleted endpoints data in them)
+  - *viewsTrendGraph*: - Changed to standard reporting instead of real-time
+                       - Data granularity changed to daily instead of hourly 
+                       - Will pull data for last 4 weeks (till yesterday)
+                       - Populates daily view trend and views in last day reports
