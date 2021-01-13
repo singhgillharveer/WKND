@@ -228,5 +228,9 @@ Below is the list of all the the endpoints in use for Ariya Experience Monitor, 
   - *NAETopThreeColors*: 
     - Updated to pull data till yesterday
     
-  - *HandraisersConversion*: 
+  - *HandraisersConversion*:
+    - Added dealer breakdown to the request
+    - Updated to pull data till yesterday
+    
+  - *HandraisersGeoCountry*: 
     - Updated to pull data till yesterday
