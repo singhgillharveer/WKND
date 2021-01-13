@@ -107,8 +107,8 @@ Below is the list of all the the endpoints in use for Ariya Experience Monitor, 
     <td>NAE Top Three Colors</td>
   </tr>
   <tr>
-    <td rowspan=3>11.</td>
-    <td rowspan=3>HandraisersConversion</td>
+    <td rowspan=4>11.</td>
+    <td rowspan=4>HandraisersConversion</td>
     <td>Handraisers Insights</td>
     <td>Handraisers All Countries</td>
   </tr>
@@ -121,10 +121,14 @@ Below is the list of all the the endpoints in use for Ariya Experience Monitor, 
     <td>NAE Top Three Countries</td>
   </tr>
   <tr>
-    <td>12.</td>
-    <td>NAETopDealers</td>
     <td>Handraisers Insights</td>
-    <td>NAE All Countries</td>
+    <td>NAE All Countries (Dealer Breakdown)</td>
+  </tr>
+  <tr>
+    <td>12.</td>
+    <td><s>NAETopDealers</s></td>
+    <td><s>Handraisers Insights</s></td>
+    <td><s>NAE All Countries (Dealer Breakdown)</s></td>
   </tr>
   <tr>
     <td>13.</td>
@@ -190,3 +194,4 @@ Below is the list of all the the endpoints in use for Ariya Experience Monitor, 
   - *handRaisersRegionSplit* -> *handRaisersRegionSplitOverallNumber*
   - *NAEHandRaisersCountrySplit* -> *HandraisersConversion*
   - *visitsTrendLast2Weeks* -> *viewsTrendGraph*
+  - *NAETopDealers* -> *HandraisersConversion*
