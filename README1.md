@@ -32,7 +32,7 @@ Below is the list of all the the endpoints in use for Ariya Experience Monitor, 
   </tr>
   <tr>
     <td>Experience Insights</td>
-    <td>Visits Trend - Last 4 Weeks</td>
+    <td>Views Trend - Last 4 Weeks</td>
   </tr>
   <tr>
     <td rowspan=2>3<br></td>
@@ -185,6 +185,8 @@ Below is the list of all the the endpoints in use for Ariya Experience Monitor, 
 
 ## Release notes:
 
-- **New Endpoint:** *NAETopDealers*
-  - Added code for new endpoint to retreive All Handraisers data broken down by Country and Top Dealers for NAE markets
-  - Reffer to [ariya.html](./ariya.html) code block in lines 477-507
+- **Deleted Endpoints:** These endpoints are no longer in use and the their corresponding resports should point to other existing endpoints mentioned
+  - *viewsOverallNumber* -> *viewsRegionSplitOverallNumber*
+  - *handRaisersRegionSplit* -> *handRaisersRegionSplitOverallNumber*
+  - *NAEHandRaisersCountrySplit* -> *HandraisersConversion*
+  - *visitsTrendLast2Weeks* -> *viewsTrendGraph*
