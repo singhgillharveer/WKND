@@ -47,7 +47,7 @@ Below is the list of all the the endpoints in use for Ariya Experience Monitor, 
   <tr>
     <td rowspan=3>4.</td>
     <td rowspan=3>handRaisersRegionSplitOverallNumber</td>
-    <td>Experience Monitor Home</td>
+    <td>+ Experience Monitor Home</td>
     <td>Handraisers Overall Number</td>
   </tr>
   <tr>
